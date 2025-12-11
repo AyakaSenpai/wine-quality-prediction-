@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+pandas
+numpy
+pickle-mixin  # atau joblib kalau pakai joblib
